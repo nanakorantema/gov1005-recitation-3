@@ -1,0 +1,12 @@
+name: first-shiny-app
+title: first-shiny-app
+username:
+account: nanakkoranteng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3646896
+bundleId: 4231268
+url: https://nanakkoranteng.shinyapps.io/first-shiny-app/
+when: 1613502872.30149
+asMultiple: FALSE
+asStatic: FALSE
